@@ -1,0 +1,116 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "モダンJavaScriptの基本から始める　React実践の教科書",
+      "authorId": 1,
+      "publisherId": 1
+    },
+    {
+      "id": 2,
+      "title": "Vue 3　フロントエンド開発の教科書",
+      "authorId": 2,
+      "publisherId": 2
+    },
+    {
+      "id": 3,
+      "title": "React.js & Next.js超入門",
+      "authorId": 3,
+      "publisherId": 3
+    },
+    {
+      "id": 4,
+      "title": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座",
+      "authorId": 4,
+      "publisherId": 1
+    },
+    {
+      "id": 5,
+      "title": "1冊ですべて身につくJavaScript入門講座",
+      "authorId": 4,
+      "publisherId": 1
+    },
+    {
+      "id": 6,
+      "title": "HTML5&CSS3標準デザイン講座 30LESSONS【第2版】",
+      "authorId": 5,
+      "publisherId": 4
+    },
+    {
+      "id": 7,
+      "title": "やさしいJava 第7版",
+      "authorId": 6,
+      "publisherId": 1
+    },
+    {
+      "id": 8,
+      "title": "PHPフレームワーク Laravel入門 第2版",
+      "authorId": 3,
+      "publisherId": 3
+    },
+    {
+      "id": 9,
+      "title": "動かして学ぶ！Laravel開発入門",
+      "authorId": 7,
+      "publisherId": 4
+    },
+    {
+      "id": 10,
+      "title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
+      "authorId": 8,
+      "publisherId": 4
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "name": "岡田拓巳"
+    },
+    {
+      "id": 2,
+      "name": "齊藤新三"
+    },
+    {
+      "id": 3,
+      "name": "掌田津耶乃"
+    },
+    {
+      "id": 4,
+      "name": "Mana"
+    },
+    {
+      "id": 5,
+      "name": "草野あけみ"
+    },
+    {
+      "id": 6,
+      "name": "高橋麻奈"
+    },
+    {
+      "id": 7,
+      "name": "山崎大助"
+    },
+    {
+      "id": 8,
+      "name": "森巧尚"
+    }
+  ],
+  "publisher": [
+    {
+      "id": 1,
+      "name": "SBクリエイティブ"
+    },
+    {
+      "id": 2,
+      "name": "技術評論社"
+    },
+    {
+      "id": 3,
+      "name": "秀和システム"
+    },
+    {
+      "id": 4,
+      "name": "翔泳社"
+    }
+  ]
+}

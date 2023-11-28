@@ -1,0 +1,29 @@
+{
+  "name": "react-book-app",
+  "dockerComposeFile": [
+    "./compose.yml"
+  ],
+  "service": "react-book-app",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.formatOnType": true,
+        "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+        }
+      },
+      "extensions": [
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "EditorConfig.EditorConfig",
+        "eamodio.gitlens"
+      ]
+    }
+  },
+  "postCreateCommand": [],
+  "workspaceFolder": "/home/node/workspace",
+  "remoteUser": "root"
+}
